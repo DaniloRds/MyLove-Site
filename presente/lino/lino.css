@@ -1,14 +1,13 @@
 body {
-  background-color: #1b1f27;
+  background-color: #0e0e13;
   font-family: Arial, Helvetica, sans-serif;
   color: white;
-  /* overflow: hidden; */
   text-align: center;
   user-select: none;
 }
 
 p {
-  font-size: 17px;
+  font-size: 18px;
 }
 
 #container {
@@ -16,16 +15,14 @@ p {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  margin-top: 6rem;
 }
 
 #resgatado {
-  background-color: #0e0e13;
   padding: 50px;
   border-radius: 20px;
 }
 
 img {
-  width: px;
   border-radius: 10px;
 }

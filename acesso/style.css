@@ -61,7 +61,7 @@ input::placeholder {
 
 form [type="submit"] {
   display: block;
-  background-color: #5568fe;
+  background-color: #6220fb;
   font-size: 20px;
   font-weight: bold;
   cursor: pointer;
@@ -69,7 +69,7 @@ form [type="submit"] {
 }
 
 form [type="submit"]:hover {
-  background-color: #3b4abe;
+  background-color: #8a5afa;
 }
 
 p {
@@ -80,7 +80,7 @@ p {
 a {
   text-decoration: none;
   font-weight: bold;
-  color: #5568fe;
+  color: #6220fb;
 }
 
 @media screen and (max-width: 76px8) {
